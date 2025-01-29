@@ -38,7 +38,7 @@ We appreciate your understanding and patience as we work to ensure the best poss
 | Send a twitter with the content "hello world"   | <video src="https://github.com/user-attachments/assets/737ccc11-9124-4464-b4be-3514cbced85c" height="300" />        |
 
 ## Features
-
+ 
 - 🤖 Natural language control powered by Vision-Language Model
 - 🖥️ Screenshot and visual recognition support
 - 🎯 Precise mouse and keyboard control
